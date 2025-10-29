@@ -1,0 +1,13 @@
+streamlit
+tensorflow
+scikit-learn
+pandas
+joblib
+fpdf
+requests
+matplotlib
+plotly
+shap
+streamlit-folium
+folium
+deep-translator
