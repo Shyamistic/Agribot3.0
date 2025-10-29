@@ -1,0 +1,28 @@
+# Byte-compiled files / cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Model checkpoints (if large)
+*.h5
+*.keras
+*.pkl
+
+# Environment files
+.env
+.venv/
+env/
+venv/
+ENV/
+*.env
+
+# Streamlit secrets (never share secrets!)
+.secrets.toml
+
+# OS files
+.DS_Store
+Thumbs.db
